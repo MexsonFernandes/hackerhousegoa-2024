@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@catalogfi/wallets": "^0.2.45",
+    "@gardenfi/core": "^0.1.15",
+    "@gardenfi/orderbook": "^0.1.10"
+  }
+}
